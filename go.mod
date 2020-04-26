@@ -15,3 +15,5 @@ require (
 	k8s.io/apimachinery v0.18.2
 	sigs.k8s.io/yaml v1.2.0
 )
+
+replace github.com/spf13/viper => github.com/spf13/viper v1.3.2
